@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://antzuhl.cn:4000/get/@LCL199804)             ![info](https://github-readme-stats.vercel.app/api?username=LCL199804&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](http://antzuhl.cn:4000/get/@LCL199804) 
+---
+![info](https://github-readme-stats.vercel.app/api?username=LCL199804&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LCL199804)
 
