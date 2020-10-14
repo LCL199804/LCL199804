@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://antzuhl.cn:4000/get/@LCL199804)
+
+![](https://visitor-badge.glitch.me/badge?page_id=LCL199804)
+
